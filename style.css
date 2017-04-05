@@ -1,0 +1,50 @@
+
+h2{
+	text-align: center;
+} 
+
+.queryText p{
+	padding-left: 350px; margin-bottom: 5px;
+}
+
+ .checkBox1, .checkBox2, .checkBox3  p{
+	padding-left: 370px; margin-top: 5px;
+}
+
+.buttonResult p{
+	text-align: center;
+}
+
+.buttonResult input{
+	padding: 10px;
+}
+
+.ddd{
+	position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9000;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.6;
+}
+
+
+.ddd span{
+	position: fixed;
+	top: 100px;
+	left: 600px;
+	width: 200px;
+	height: 100px;
+	background-color: white;
+}
+
+.ddd span a{
+
+	position: fixed;
+	top: 200px;
+	left: 785px;
+	text-decoration: none;
+	color: #fbfbfb;
+}
